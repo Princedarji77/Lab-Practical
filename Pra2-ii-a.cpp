@@ -1,13 +1,14 @@
-// Practical 2 (II)-(a) : Demonstrate the concept of Call by value.
+// Practical 2 (I)-(a) : Demonstrate the concept of Call by value.
 
 #include <iostream>
 using namespace std;
 
-void swapByValue (int x, int y) 
+void swapByValue(int x, int y) 
 {
     int temp = x;
     x = y;
     y = temp;
+    cout << "x = " << x << ", y = " << y << endl;
 }
 
 int main() 
