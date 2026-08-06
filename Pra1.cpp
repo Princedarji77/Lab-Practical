@@ -1,3 +1,5 @@
+// Practical 1 : Write a program to create an array and demonstrate insertion, deletion, traversal, and search operations.
+
 #include<iostream>
 using namespace std;
 
