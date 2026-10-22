@@ -1,4 +1,4 @@
-// Practical 4 A : Infix to Postfix Conversion.
+// Practical 4 - I : Infix to Postfix Conversion.
 
 #include<iostream>
 using namespace std;
